@@ -1,11 +1,14 @@
-const Discord = require("discord.js");
-const client = new Discord.Client();
+const Discord = require('discord.js');
+const discord = new Discord.Client();
+ 
+console.log("TAR7EB");
+      if (member.guild.id === "635898451640582184") {
 
-async def on_member_join(self, member):
-        guild = member.guild
-            wlc_msg = 'have a good moment with **kova**'.format(member, guild)
-            channel = client.get_channel(635898451640582186)
-            await channel.send(wlc_msg)
-
-
+client.on("guildMemberAdd", member => {
+  client.channels.get("635898451640582186").message.channel.send(` have a good moment with **kova** ‘ ${member} `)
+.catch(console.error)
+}
+})
+              
+              
 client.login(process.env.BOT_TOKEN);
