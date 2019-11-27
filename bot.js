@@ -5,10 +5,9 @@ console.log("TAR7EB");
       if (member.guild.id === "635898451640582184") {
 
 client.on("guildMemberAdd", member => {
-  client.channels.get("635898451640582186").message.channel.send(` have a good moment with **kova** ‘ ${member} `)
-.catch(console.error)
+message.channel.send(` have a good moment with **kova** ‘ ${member} `)
+
 }
-})
-              
+})           
               
 client.login(process.env.BOT_TOKEN);
