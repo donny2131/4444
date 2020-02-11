@@ -2336,4 +2336,4 @@ client.on('message', message => {
 
 
 
-	client.login('توكن بوتك');
+client.login(process.env.BOT_TOKEN);
