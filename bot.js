@@ -13,172 +13,172 @@ client.on('message', message => {
          if(!message.member.hasPermission('ADMINISTRATOR')) return    message.channel.send('**You Dont Have** `ADMINISTRATOR` **premission**').then(msg => msg.delete(6000))
       message.guild.createRole({
                   name: "1",
-                    color: "#F9EBEA",
+                    color: "#FFB6C1",
                     permissions: []
      })
            message.guild.createRole({
                   name: "2",
-                    color: "#F2D7D5",
+                    color: "#FFC0CB",
                     permissions: []
      })
                 message.guild.createRole({
                   name: "3",
-                    color: "#E6B0AA",
+                    color: "#FF69B4",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "4",
-                    color: "#D98880",
+                    color: "#FF1493",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "5",
-                    color: "#CD6155",
+                    color: "#DB7093",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "6",
-                    color: "#C0392B",
+                    color: "#C71585",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "7",
-                    color: "#A93226",
+                    color: "#E6E6FA",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "8",
-                    color: "#922B21",
+                    color: "#D8BFD8",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "8",
-                    color: "#FDEDEC",
+                    color: "#DDA0DD",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "9",
-                    color: "#FADBD8",
+                    color: "#DA70D6",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "10",
-                    color: "#F5B7B1",
+                    color: "#EE82EE",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "11",
-                    color: "#F1948A",
+                    color: "#FF00FF",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "12",
-                    color: "#EC7063",
+                    color: "#BA55D3",
                     permissions: []
      })
                      message.guild.createRole({
                   name: "13",
-                    color: "#E74C3C",
+                    color: "#9932CC",
                     permissions: []
      })
                           message.guild.createRole({
                   name: "14",
-                    color: "#CB4335",
+                    color: "#9400D3",
                     permissions: []
      })
                           message.guild.createRole({
                   name: "15",
-                    color: "#B03A2E",
+                    color: "#8A2BE2",
                     permissions: []
      })
                                message.guild.createRole({
                   name: "16",
-                    color: "#F5EEF8",
+                    color: "#8B008B",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "17",
-                    color: "#EBDEF0",
+                    color: "#800080",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "18",
-                    color: "#D7BDE2",
+                    color: "#9370DB",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "19",
-                    color: "#C39BD3",
+                    color: "#7B68EE",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "20",
-                    color: "#AF7AC5",
+                    color: "#6A5ACD",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "21",
-                    color: "#9B59B6",
+                    color: "#483D8B",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "22",
-                    color: "#884EA0",
+                    color: "#663399",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "23",
-                    color: "#76448A",
+                    color: "#4B0082",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "24",
-                    color: "#F4ECF7",
+                    color: "#FFA07A",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "25",
-                    color: "#E8DAEF",
+                    color: "#FA8072",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "26",
-                    color: "#D2B4DE",
+                    color: "#E9967A",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "27",
-                    color: "#BB8FCE",
+                    color: "#F08080",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "28",
-                    color: "#A569BD",
+                    color: "#CD5C5C",
                     permissions: []
      })
                                     message.guild.createRole({
                   name: "29",
-                    color: "#8E44AD",
+                    color: "#DC143C",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "30",
-                    color: "	#7D3C98",
+                    color: "	#FF0000",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "31",
-                    color: "#6C3483",
+                    color: "#B22222",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "32",
-                    color: "#EAF2F8",
+                    color: "#8B0000",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "33",
-                    color: "#D4E6F1",
+                    color: "#FFA500",
                     permissions: []
      })
                                          message.guild.createRole({
@@ -188,135 +188,135 @@ client.on('message', message => {
      })
                                          message.guild.createRole({
                   name: "35",
-                    color: "#7FB3D5",
+                    color: "#FF7F50",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "36",
-                    color: "#5499C7",
+                    color: "#FF6347",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "37",
-                    color: "#2980B9",
+                    color: "#FF4500",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "38",
-                    color: "#2471A3",
+                    color: "#FFD700",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "39",
-                    color: "#1F618D",
+                    color: "#FFFFE0",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "40",
-                    color: "#EBF5FB",
+                    color: "#FFFACD",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "41",
-                    color: "#D6EAF8",
+                    color: "#FAFAD2",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "42",
-                    color: "	#AED6F1",
+                    color: "	#FFEFD5",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "43",
-                    color: "#85C1E9",
+                    color: "#FFE4B5",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "44",
-                    color: "#5DADE2",
+                    color: "#FFDAB9",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "45",
-                    color: "#3498DB",
+                    color: "#EEE8AA",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "46",
-                    color: "#2E86C1",
+                    color: "#F0E68C",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "47",
-                    color: "#2874A6",
+                    color: "#BDB76B",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "48",
-                    color: "#E8F8F5",
+                    color: "#ADFF2F",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "49",
-                    color: "#D1F2EB",
+                    color: "#7FFF00",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "50",
-                    color: "#A3E4D7",
+                    color: "#7CFC00",
                     permissions: []
      })
                                          message.guild.createRole({
                   name: "51",
-                    color: "#76D7C4",
+                    color: "#00FF00",
                     permissions: []
      })  
      
                                          message.guild.createRole({
                   name: "52",
-                    color: "#48C9B0",
+                    color: "#32CD32",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "53",
-                    color: "#1ABC9C",
+                    color: "#98FB98",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "54",
-                    color: "#17A589",
+                    color: "#90EE90",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "55",
-                    color: "#148F77",
+                    color: "#00FA9A",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "56",
-                    color: "#E8F6F3",
+                    color: "#00FF7F",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "57",
-                    color: "#D0ECE7",
+                    color: "#3CB371",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "58",
-                    color: "#A2D9CE",
+                    color: "#2E8B57",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "59",
-                    color: "#73C6B6",
+                    color: "#2E8B57",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "60",
-                    color: "#45B39D",
+                    color: "#008000",
                     permissions: []
-     })       
+     })     
                                          message.guild.createRole({
                   name: "61",
                     color: "#006400",
@@ -1854,25 +1854,12 @@ client.on('message', message => {
 	
 	});
 
-
-
 	client.on('message', async message => {
 		
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
-		
-		role.delete()
-		}
-	
-	});
-	client.on('message', async message => {
-		
-			let args = message.content.split(' ').slice(1);
-	if (message.content.startsWith("!deletecolors")) {
-		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '86');
+		let role = message.guild.roles.find('name', '97');
 		
 		role.delete()
 		}
@@ -1884,7 +1871,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '87');
+		let role = message.guild.roles.find('name', '98');
 		
 		role.delete()
 		}
@@ -1896,7 +1883,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '88');
+		let role = message.guild.roles.find('name', '99');
 		
 		role.delete()
 		}
@@ -1908,7 +1895,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '89');
+		let role = message.guild.roles.find('name', '100');
 		
 		role.delete()
 		}
@@ -1920,7 +1907,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '90');
+		let role = message.guild.roles.find('name', '101');
 		
 		role.delete()
 		}
@@ -1932,7 +1919,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '91');
+		let role = message.guild.roles.find('name', '102');
 		
 		role.delete()
 		}
@@ -1944,7 +1931,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '92');
+		let role = message.guild.roles.find('name', '103');
 		
 		role.delete()
 		}
@@ -1956,7 +1943,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '93');
+		let role = message.guild.roles.find('name', '104');
 		
 		role.delete()
 		}
@@ -1968,7 +1955,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '94');
+		let role = message.guild.roles.find('name', '105');
 		
 		role.delete()
 		}
@@ -1980,7 +1967,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '95');
+		let role = message.guild.roles.find('name', '106');
 		
 		role.delete()
 		}
@@ -1992,21 +1979,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
-		
-		role.delete()
-		}
-	
-	});
-
-
-
-	client.on('message', async message => {
-		
-			let args = message.content.split(' ').slice(1);
-	if (message.content.startsWith("!deletecolors")) {
-		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
+		let role = message.guild.roles.find('name', '107');
 		
 		role.delete()
 		}
@@ -2018,7 +1991,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '86');
+		let role = message.guild.roles.find('name', '108');
 		
 		role.delete()
 		}
@@ -2030,7 +2003,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '87');
+		let role = message.guild.roles.find('name', '109');
 		
 		role.delete()
 		}
@@ -2042,7 +2015,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '88');
+		let role = message.guild.roles.find('name', '110');
 		
 		role.delete()
 		}
@@ -2054,7 +2027,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '89');
+		let role = message.guild.roles.find('name', '111');
 		
 		role.delete()
 		}
@@ -2066,7 +2039,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '90');
+		let role = message.guild.roles.find('name', '112');
 		
 		role.delete()
 		}
@@ -2078,7 +2051,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '91');
+		let role = message.guild.roles.find('name', '113');
 		
 		role.delete()
 		}
@@ -2090,7 +2063,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '92');
+		let role = message.guild.roles.find('name', '114');
 		
 		role.delete()
 		}
@@ -2102,7 +2075,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '93');
+		let role = message.guild.roles.find('name', '115');
 		
 		role.delete()
 		}
@@ -2114,7 +2087,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '94');
+		let role = message.guild.roles.find('name', '116');
 		
 		role.delete()
 		}
@@ -2126,7 +2099,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '95');
+		let role = message.guild.roles.find('name', '117');
 		
 		role.delete()
 		}
@@ -2138,21 +2111,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
-		
-		role.delete()
-		}
-	
-	});
-
-
-
-	client.on('message', async message => {
-		
-			let args = message.content.split(' ').slice(1);
-	if (message.content.startsWith("!deletecolors")) {
-		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
+		let role = message.guild.roles.find('name', '118');
 		
 		role.delete()
 		}
@@ -2164,7 +2123,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '86');
+		let role = message.guild.roles.find('name', '119');
 		
 		role.delete()
 		}
@@ -2176,7 +2135,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '87');
+		let role = message.guild.roles.find('name', '121');
 		
 		role.delete()
 		}
@@ -2188,7 +2147,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '88');
+		let role = message.guild.roles.find('name', '122');
 		
 		role.delete()
 		}
@@ -2200,7 +2159,18 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '89');
+		let role = message.guild.roles.find('name', '123');
+		
+		role.delete()
+		}
+	
+	});
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '124');
 		
 		role.delete()
 		}
@@ -2212,7 +2182,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '90');
+		let role = message.guild.roles.find('name', '125');
 		
 		role.delete()
 		}
@@ -2224,7 +2194,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '91');
+		let role = message.guild.roles.find('name', '126');
 		
 		role.delete()
 		}
@@ -2236,7 +2206,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '92');
+		let role = message.guild.roles.find('name', '127');
 		
 		role.delete()
 		}
@@ -2248,7 +2218,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '93');
+		let role = message.guild.roles.find('name', '128');
 		
 		role.delete()
 		}
@@ -2260,7 +2230,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '94');
+		let role = message.guild.roles.find('name', '129');
 		
 		role.delete()
 		}
@@ -2272,7 +2242,7 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '95');
+		let role = message.guild.roles.find('name', '130');
 		
 		role.delete()
 		}
@@ -2284,25 +2254,86 @@ client.on('message', message => {
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
+		let role = message.guild.roles.find('name', '131');
 		
 		role.delete()
 		}
 	
 	});
-
-
 
 	client.on('message', async message => {
 		
 			let args = message.content.split(' ').slice(1);
 	if (message.content.startsWith("!deletecolors")) {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '96');
+		let role = message.guild.roles.find('name', '132');
 		
 		role.delete()
 		}
 	
 	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '133');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '134');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '135');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '136');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '137');
+		
+		role.delete()
+		}
+	
+	});
+
+
+
 
 client.login(process.env.BOT_TOKEN);
