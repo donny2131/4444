@@ -1856,6 +1856,453 @@ client.on('message', message => {
 
 
 
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '86');
+		
+		role.delete()
+		}
+	
+	});
 
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '87');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '88');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '89');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '90');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '91');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '92');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '93');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '94');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '95');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
+
+
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '86');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '87');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '88');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '89');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '90');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '91');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '92');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '93');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '94');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '95');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
+
+
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '86');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '87');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '88');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '89');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '90');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '91');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '92');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '93');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '94');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '95');
+		
+		role.delete()
+		}
+	
+	});
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
+
+
+
+	client.on('message', async message => {
+		
+			let args = message.content.split(' ').slice(1);
+	if (message.content.startsWith("!deletecolors")) {
+		if(!message.member.hasPermission('ADMINISTRATOR')) return
+		let role = message.guild.roles.find('name', '96');
+		
+		role.delete()
+		}
+	
+	});
 
 client.login(process.env.BOT_TOKEN);
