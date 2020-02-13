@@ -319,127 +319,127 @@ client.on('message', message => {
      })       
                                          message.guild.createRole({
                   name: "61",
-                    color: "#006400",
+                    color: "#16A085",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "62",
-                    color: "#9ACD32",
+                    color: "#138D75",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "63",
-                    color: "#6B8E23",
+                    color: "#117A65",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "64",
-                    color: "#556B2F",
+                    color: "#E9F7EF",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "65",
-                    color: "#66CDAA",
+                    color: "#D4EFDF",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "66",
-                    color: "#8FBC8F",
+                    color: "#A9DFBF",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "67",
-                    color: "#20B2AA",
+                    color: "#7DCEA0",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "68",
-                    color: "#008B8B",
+                    color: "#52BE80",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "69",
-                    color: "#008080",
+                    color: "#27AE60",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "70",
-                    color: "#00FFFF",
+                    color: "#229954",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "71",
-                    color: "#E0FFFF",
+                    color: "#1E8449",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "72",
-                    color: "#AFEEEE",
+                    color: "#EAFAF1",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "73",
-                    color: "#7FFFD4",
+                    color: "#D5F5E3",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "74",
-                    color: "#40E0D0",
+                    color: "#ABEBC6",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "75",
-                    color: "#48D1CC",
+                    color: "#82E0AA",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "76",
-                    color: "#00CED1",
+                    color: "#58D68D",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "77",
-                    color: "#5F9EA0",
+                    color: "#2ECC71",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "78",
-                    color: "#4682B4",
+                    color: "#28B463",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "79",
-                    color: "#B0C4DE",
+                    color: "#239B56",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "80",
-                    color: "#ADD8E6",
+                    color: "#FEF9E7",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "81",
-                    color: "#B0E0E6",
+                    color: "#FCF3CF",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "82",
-                    color: "#87CEFA",
+                    color: "#F9E79F",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "83",
-                    color: "#87CEEB",
+                    color: "#F7DC6F",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "84",
-                    color: "#6495ED",
+                    color: "#F1C40F",
                     permissions: []
      })     
                                          message.guild.createRole({
                   name: "85",
-                    color: "#00BFFF",
+                    color: "#D4AC0D",
                     permissions: []
      })     
                                          message.guild.createRole({
@@ -702,7 +702,121 @@ client.on('message', message => {
                     color: "#000000",
                     permissions: []
      })     
-
+                                         message.guild.createRole({
+                  name: "138",
+                    color: "#000000",
+                    permissions: []
+     })     
+                                         message.guild.createRole({
+                  name: "139",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "140",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "141",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "142",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "143",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "144",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "145",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "146",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "147",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "148",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "149",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "150",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "151",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "152",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "153",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "154",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "155",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "156",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "157",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "158",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "159",
+                    color: "#000000",
+                    permissions: []
+     })   
+                                         message.guild.createRole({
+                  name: "160",
+                    color: "#000000",
+                    permissions: []
+     })   
      
           message.channel.sendMessage({embed: new Discord.RichEmbed()
      .setColor('#502faf').setAuthor(`${message.author.username}'`, message.author.avatarURL).setDescription('``Colors Has Been Created``')});
