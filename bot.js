@@ -697,11 +697,7 @@ client.on('message', message => {
                     color: "#000000",
                     permissions: []
      })     
-                   message.guild.createRole({
-                  name: "138",
-                    color: "#E6B0A5",
-                    permissions: []
-     })  
+
           message.channel.sendMessage({embed: new Discord.RichEmbed()
      .setColor('#502faf').setAuthor(`${message.author.username}'`, message.author.avatarURL).setDescription('``Colors Has Been Created``')});
     }
@@ -2330,21 +2326,6 @@ client.on('message', message => {
 		}
 	
 	});
-
-	client.on('message', async message => {
-		
-			let args = message.content.split(' ').slice(1);
-	if (message.content.startsWith("!deletecolors")) {
-		if(!message.member.hasPermission('ADMINISTRATOR')) return
-		let role = message.guild.roles.find('name', '138');
-		
-		role.delete()
-		}
-	
-	});
-
-
-
 
 
 client.login(process.env.BOT_TOKEN);
