@@ -699,7 +699,7 @@ client.on('message', message => {
      })     
                    message.guild.createRole({
                   name: "138",
-                    color: "#E6B0AA",
+                    color: "#E6B0A5",
                     permissions: []
      })  
           message.channel.sendMessage({embed: new Discord.RichEmbed()
