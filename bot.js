@@ -218,7 +218,7 @@ client.on('message', message => {
      })
                                          message.guild.createRole({
                   name: "42",
-                    color: "	#AED6F1",
+                    color: "#AED6F1",
                     permissions: []
      })
                                          message.guild.createRole({
